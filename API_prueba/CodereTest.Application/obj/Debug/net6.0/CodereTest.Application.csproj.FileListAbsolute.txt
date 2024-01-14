@@ -1,0 +1,15 @@
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\bin\Debug\net6.0\CodereTest.Application.deps.json
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\bin\Debug\net6.0\CodereTest.Application.dll
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\bin\Debug\net6.0\CodereTest.Application.pdb
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\bin\Debug\net6.0\CodereTest.Domain.dll
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\bin\Debug\net6.0\CodereTest.Domain.pdb
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\obj\Debug\net6.0\CodereTest.Application.csproj.AssemblyReference.cache
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\obj\Debug\net6.0\CodereTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\obj\Debug\net6.0\CodereTest.Application.AssemblyInfoInputs.cache
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\obj\Debug\net6.0\CodereTest.Application.AssemblyInfo.cs
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\obj\Debug\net6.0\CodereTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\obj\Debug\net6.0\CodereTest.Application.csproj.CopyComplete
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\obj\Debug\net6.0\CodereTest.Application.dll
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\obj\Debug\net6.0\refint\CodereTest.Application.dll
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\obj\Debug\net6.0\CodereTest.Application.pdb
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\obj\Debug\net6.0\ref\CodereTest.Application.dll

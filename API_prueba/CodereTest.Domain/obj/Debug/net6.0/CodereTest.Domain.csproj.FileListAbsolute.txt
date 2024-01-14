@@ -1,0 +1,11 @@
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\bin\Debug\net6.0\CodereTest.Domain.deps.json
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\bin\Debug\net6.0\CodereTest.Domain.dll
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\bin\Debug\net6.0\CodereTest.Domain.pdb
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\obj\Debug\net6.0\CodereTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\obj\Debug\net6.0\CodereTest.Domain.AssemblyInfoInputs.cache
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\obj\Debug\net6.0\CodereTest.Domain.AssemblyInfo.cs
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\obj\Debug\net6.0\CodereTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\obj\Debug\net6.0\CodereTest.Domain.dll
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\obj\Debug\net6.0\refint\CodereTest.Domain.dll
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\obj\Debug\net6.0\CodereTest.Domain.pdb
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\obj\Debug\net6.0\ref\CodereTest.Domain.dll

@@ -1,0 +1,1287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.265243902439024" branch-rate="0" lines-covered="87" lines-valid="328" branches-covered="0" branches-valid="20" complexity="119" version="0" timestamp="1705265422">
+  <sources>
+    <source>C:\Users\Alvar\</source>
+  </sources>
+  <packages>
+    <package name="CodereTest.API" line-rate="0.18348623853211" branch-rate="0" complexity="16">
+      <classes>
+        <class name="CodereTest.API.DependencyInjection" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest\DependencyInjection.cs" line-rate="0" branch-rate="1" complexity="4">
+          <methods>
+            <method name="AddInMemoryDbContext" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="AddAppServices" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="AddMediatR" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="false" />
+                <line number="31" hits="0" branch="false" />
+                <line number="32" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="34" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="AddRepositories" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="37" hits="0" branch="false" />
+                <line number="38" hits="0" branch="false" />
+                <line number="39" hits="0" branch="false" />
+                <line number="40" hits="0" branch="false" />
+                <line number="41" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="37" hits="0" branch="false" />
+            <line number="38" hits="0" branch="false" />
+            <line number="39" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="41" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodereTest.API.Middlewares.AuthMiddleware" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest\Middlewares\AuthMiddleware.cs" line-rate="0" branch-rate="0" complexity="5">
+          <methods>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="InvokeAsync" signature="()" line-rate="0" branch-rate="0" complexity="4">
+              <lines>
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+                <line number="27" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="false" />
+                <line number="31" hits="0" branch="false" />
+                <line number="34" hits="0" branch="false" />
+                <line number="35" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="27" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodereTest.Controllers.ShowsController" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest\Controllers\ShowsController.cs" line-rate="1" branch-rate="1" complexity="5">
+          <methods>
+            <method name=".ctor" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="4" branch="false" />
+                <line number="20" hits="4" branch="false" />
+                <line number="21" hits="4" branch="false" />
+                <line number="22" hits="4" branch="false" />
+              </lines>
+            </method>
+            <method name="DeleteShow" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="35" hits="1" branch="false" />
+                <line number="36" hits="1" branch="false" />
+                <line number="37" hits="1" branch="false" />
+                <line number="38" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="GetAllShows" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="51" hits="1" branch="false" />
+                <line number="52" hits="1" branch="false" />
+                <line number="53" hits="1" branch="false" />
+                <line number="54" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="GetShow" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="43" hits="1" branch="false" />
+                <line number="44" hits="1" branch="false" />
+                <line number="45" hits="1" branch="false" />
+                <line number="46" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="SaveShow" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="27" hits="1" branch="false" />
+                <line number="28" hits="1" branch="false" />
+                <line number="29" hits="1" branch="false" />
+                <line number="30" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="19" hits="4" branch="false" />
+            <line number="20" hits="4" branch="false" />
+            <line number="21" hits="4" branch="false" />
+            <line number="22" hits="4" branch="false" />
+            <line number="27" hits="1" branch="false" />
+            <line number="28" hits="1" branch="false" />
+            <line number="29" hits="1" branch="false" />
+            <line number="30" hits="1" branch="false" />
+            <line number="35" hits="1" branch="false" />
+            <line number="36" hits="1" branch="false" />
+            <line number="37" hits="1" branch="false" />
+            <line number="38" hits="1" branch="false" />
+            <line number="43" hits="1" branch="false" />
+            <line number="44" hits="1" branch="false" />
+            <line number="45" hits="1" branch="false" />
+            <line number="46" hits="1" branch="false" />
+            <line number="51" hits="1" branch="false" />
+            <line number="52" hits="1" branch="false" />
+            <line number="53" hits="1" branch="false" />
+            <line number="54" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="Program" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest\Program.cs" line-rate="0" branch-rate="0" complexity="2">
+          <methods>
+            <method name="&lt;Main&gt;$" signature="(...)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="5" hits="0" branch="false" />
+                <line number="9" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="false" />
+                <line number="31" hits="0" branch="false" />
+                <line number="32" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="34" hits="0" branch="false" />
+                <line number="35" hits="0" branch="false" />
+                <line number="36" hits="0" branch="false" />
+                <line number="37" hits="0" branch="false" />
+                <line number="38" hits="0" branch="false" />
+                <line number="39" hits="0" branch="false" />
+                <line number="40" hits="0" branch="false" />
+                <line number="41" hits="0" branch="false" />
+                <line number="42" hits="0" branch="false" />
+                <line number="43" hits="0" branch="false" />
+                <line number="44" hits="0" branch="false" />
+                <line number="45" hits="0" branch="false" />
+                <line number="46" hits="0" branch="false" />
+                <line number="47" hits="0" branch="false" />
+                <line number="48" hits="0" branch="false" />
+                <line number="49" hits="0" branch="false" />
+                <line number="50" hits="0" branch="false" />
+                <line number="52" hits="0" branch="false" />
+                <line number="55" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="56" hits="0" branch="false" />
+                <line number="57" hits="0" branch="false" />
+                <line number="58" hits="0" branch="false" />
+                <line number="59" hits="0" branch="false" />
+                <line number="61" hits="0" branch="false" />
+                <line number="62" hits="0" branch="false" />
+                <line number="64" hits="0" branch="false" />
+                <line number="66" hits="0" branch="false" />
+                <line number="68" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="0" branch="false" />
+            <line number="9" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="37" hits="0" branch="false" />
+            <line number="38" hits="0" branch="false" />
+            <line number="39" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="41" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="43" hits="0" branch="false" />
+            <line number="44" hits="0" branch="false" />
+            <line number="45" hits="0" branch="false" />
+            <line number="46" hits="0" branch="false" />
+            <line number="47" hits="0" branch="false" />
+            <line number="48" hits="0" branch="false" />
+            <line number="49" hits="0" branch="false" />
+            <line number="50" hits="0" branch="false" />
+            <line number="52" hits="0" branch="false" />
+            <line number="55" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="56" hits="0" branch="false" />
+            <line number="57" hits="0" branch="false" />
+            <line number="58" hits="0" branch="false" />
+            <line number="59" hits="0" branch="false" />
+            <line number="61" hits="0" branch="false" />
+            <line number="62" hits="0" branch="false" />
+            <line number="64" hits="0" branch="false" />
+            <line number="66" hits="0" branch="false" />
+            <line number="68" hits="0" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="CodereTest.Application" line-rate="0.102564102564103" branch-rate="0" complexity="16">
+      <classes>
+        <class name="CodereTest.Application.Commands.DeleteShow.DeleteShowCommand" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\Commands\DeleteShow\DeleteShowCommand.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="get_id" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="2" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="2" branch="false" />
+          </lines>
+        </class>
+        <class name="CodereTest.Application.Commands.DeleteShow.DeleteShowCommandHandler" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\Commands\DeleteShow\DeleteShowCommandHandler.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Handle" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodereTest.Application.Commands.SaveShow.SaveShowCommand" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\Commands\SaveShow\SaveShowCommand.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="get_id" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="2" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="2" branch="false" />
+          </lines>
+        </class>
+        <class name="CodereTest.Application.Commands.SaveShow.SaveShowCommandHandler" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\Commands\SaveShow\SaveShowCommandHandler.cs" line-rate="0" branch-rate="0" complexity="5">
+          <methods>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Handle" signature="()" line-rate="0" branch-rate="0" complexity="4">
+              <lines>
+                <line number="21" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="25" hits="0" branch="false" />
+                <line number="26" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodereTest.Application.Queries.GetAllShows.GetAllShowsQuery" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\Queries\GetAllShows\GetAllShowsQuery.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="2" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="2" branch="false" />
+          </lines>
+        </class>
+        <class name="CodereTest.Application.Queries.GetShow.GetAllShowsQueryHandler" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\Queries\GetAllShows\GetAllShowsQueryHandler.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Handle" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodereTest.Application.Queries.GetShow.GetShowQuery" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\Queries\GetShow\GetShowQuery.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="get_id" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="2" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="2" branch="false" />
+          </lines>
+        </class>
+        <class name="CodereTest.Application.Queries.GetShow.GetShowQueryHandler" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Application\Queries\GetShow\GetShowQueryHandler.cs" line-rate="0" branch-rate="0" complexity="3">
+          <methods>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Handle" signature="()" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="CodereTest.Domain" line-rate="0.138461538461538" branch-rate="1" complexity="58">
+      <classes>
+        <class name="CodereTest.Domain.Entities.Common.BaseEntity" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\Entities\Common\BaseEntity.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="get_Id" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="10" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="10" branch="false" />
+          </lines>
+        </class>
+        <class name="CodereTest.Domain.Entities.Country" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\Entities\Country.cs" line-rate="0" branch-rate="1" complexity="4">
+          <methods>
+            <method name="get_CountryId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Name" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Code" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="21" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Timezone" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodereTest.Domain.Entities.Externals" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\Entities\Externals.cs" line-rate="0" branch-rate="1" complexity="4">
+          <methods>
+            <method name="get_ExternalsId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Tvrage" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Thetvdb" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Imdb" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodereTest.Domain.Entities.Image" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\Entities\Image.cs" line-rate="0" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_ImageId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Medium" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Original" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodereTest.Domain.Entities.Links" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\Entities\Links.cs" line-rate="0" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_LinksId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Self" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Previousepisode" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodereTest.Domain.Entities.Network" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\Entities\Network.cs" line-rate="0" branch-rate="1" complexity="5">
+          <methods>
+            <method name="get_NetworkId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Name" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_CountryId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Country" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_OfficialSite" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodereTest.Domain.Entities.Rating" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\Entities\Rating.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="get_RatingId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Average" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodereTest.Domain.Entities.Schedule" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\Entities\Schedule.cs" line-rate="0" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_ScheduleId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Time" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Days" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="20" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="14" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodereTest.Domain.Entities.ShowItem" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\Entities\ShowItem.cs" line-rate="0.307692307692308" branch-rate="1" complexity="26">
+          <methods>
+            <method name="get_Url" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="4" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Name" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="8" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Type" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="4" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Language" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="20" hits="4" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Genres" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="23" hits="4" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Status" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="26" hits="8" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Runtime" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="28" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_AverageRuntime" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="29" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Premiered" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="32" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Ended" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="35" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_OfficialSite" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="38" hits="4" branch="false" />
+              </lines>
+            </method>
+            <method name="get_ScheduleId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="41" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Schedule" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="43" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_RatingId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="46" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Rating" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="48" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Weight" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="50" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_NetworkId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="53" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Network" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="55" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_ExternalsId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="58" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Externals" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="60" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_ImageId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="63" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Image" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="65" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Summary" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="68" hits="4" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Updated" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="70" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_LinksId" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="73" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Links" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="75" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="4" branch="false" />
+            <line number="14" hits="8" branch="false" />
+            <line number="17" hits="4" branch="false" />
+            <line number="20" hits="4" branch="false" />
+            <line number="23" hits="4" branch="false" />
+            <line number="26" hits="8" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="38" hits="4" branch="false" />
+            <line number="41" hits="0" branch="false" />
+            <line number="43" hits="0" branch="false" />
+            <line number="46" hits="0" branch="false" />
+            <line number="48" hits="0" branch="false" />
+            <line number="50" hits="0" branch="false" />
+            <line number="53" hits="0" branch="false" />
+            <line number="55" hits="0" branch="false" />
+            <line number="58" hits="0" branch="false" />
+            <line number="60" hits="0" branch="false" />
+            <line number="63" hits="0" branch="false" />
+            <line number="65" hits="0" branch="false" />
+            <line number="68" hits="4" branch="false" />
+            <line number="70" hits="0" branch="false" />
+            <line number="73" hits="0" branch="false" />
+            <line number="75" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="ISF.FAF_RF.Domain.Common.AppException" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\Common\AppException.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="get_Error" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="5" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="0" branch="false" />
+                <line number="8" hits="0" branch="false" />
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="0" branch="false" />
+            <line number="7" hits="0" branch="false" />
+            <line number="8" hits="0" branch="false" />
+            <line number="9" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="ISF.FAF_RF.Domain.Common.CustomError" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Domain\Common\AppException.cs" line-rate="0" branch-rate="1" complexity="5">
+          <methods>
+            <method name="get_IdError" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_SaveError" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Code" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Message" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="20" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="CodereTest.Infrastructure" line-rate="0" branch-rate="0" complexity="23">
+      <classes>
+        <class name="CodereTest.Infrastructure.Context.CodereTestContext" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Infrastructure\Context\CodereTestContext.cs" line-rate="0" branch-rate="1" complexity="10">
+          <methods>
+            <method name="get_ShowItems" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Countries" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Externals" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Images" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Links" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Networks" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Schedules" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Ratings" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="20" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="OnConfiguring" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodereTest.Infrastructure.Repositories.ShowItemRepository" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Infrastructure\Repositories\ShowItemRepository.cs" line-rate="0" branch-rate="0" complexity="9">
+          <methods>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Delete" signature="()" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Exists" signature="()" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="46" hits="0" branch="false" />
+                <line number="47" hits="0" branch="false" />
+                <line number="49" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="50" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetAll" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="false" />
+                <line number="31" hits="0" branch="false" />
+                <line number="32" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="34" hits="0" branch="false" />
+                <line number="35" hits="0" branch="false" />
+                <line number="36" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetById" signature="()" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="39" hits="0" branch="false" />
+                <line number="40" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="41" hits="0" branch="false" />
+                <line number="42" hits="0" branch="false" />
+                <line number="43" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="Save" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="53" hits="0" branch="false" />
+                <line number="54" hits="0" branch="false" />
+                <line number="55" hits="0" branch="false" />
+                <line number="57" hits="0" branch="false" />
+                <line number="58" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="39" hits="0" branch="false" />
+            <line number="40" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="41" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="43" hits="0" branch="false" />
+            <line number="46" hits="0" branch="false" />
+            <line number="47" hits="0" branch="false" />
+            <line number="49" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="50" hits="0" branch="false" />
+            <line number="53" hits="0" branch="false" />
+            <line number="54" hits="0" branch="false" />
+            <line number="55" hits="0" branch="false" />
+            <line number="57" hits="0" branch="false" />
+            <line number="58" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodereTest.Infrastructure.Services.HttpClientFactory" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Infrastructure\Services\HttpClient.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="CreateClient" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodereTest.Infrastructure.Services.TvMazeService" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Infrastructure\Services\TvMazeService.cs" line-rate="0" branch-rate="0" complexity="3">
+          <methods>
+            <method name=".ctor" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetShowById" signature="()" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="23" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="24" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="false" />
+                <line number="32" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="23" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="CodereTest.Tests" line-rate="0.981818181818182" branch-rate="1" complexity="6">
+      <classes>
+        <class name="AutoGeneratedProgram" filename="C:\Users\Alvar\.nuget\packages\microsoft.net.test.sdk\17.1.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Main" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="CodereTest.Tests.UnitTests.API.ShowsControllerTest" filename="C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Tests\UnitTests\API\ShowsControllerTest.cs" line-rate="1" branch-rate="1" complexity="5">
+          <methods>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="20" hits="4" branch="false" />
+                <line number="21" hits="4" branch="false" />
+                <line number="22" hits="4" branch="false" />
+                <line number="23" hits="4" branch="false" />
+                <line number="24" hits="4" branch="false" />
+              </lines>
+            </method>
+            <method name="ShouldDeleteShowById" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="82" hits="1" branch="false" />
+                <line number="83" hits="1" branch="false" />
+                <line number="84" hits="1" branch="false" />
+                <line number="85" hits="1" branch="false" />
+                <line number="87" hits="1" branch="false" />
+                <line number="89" hits="1" branch="false" />
+                <line number="90" hits="1" branch="false" />
+                <line number="91" hits="1" branch="false" />
+                <line number="92" hits="1" branch="false" />
+                <line number="93" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="ShouldReturnAllSavedShows" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="46" hits="1" branch="false" />
+                <line number="47" hits="1" branch="false" />
+                <line number="48" hits="1" branch="false" />
+                <line number="49" hits="1" branch="false" />
+                <line number="50" hits="1" branch="false" />
+                <line number="52" hits="1" branch="false" />
+                <line number="54" hits="1" branch="false" />
+                <line number="55" hits="1" branch="false" />
+                <line number="56" hits="1" branch="false" />
+                <line number="57" hits="1" branch="false" />
+                <line number="58" hits="1" branch="false" />
+                <line number="59" hits="1" branch="false" />
+                <line number="60" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="ShouldReturnShowById" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="28" hits="1" branch="false" />
+                <line number="29" hits="1" branch="false" />
+                <line number="30" hits="1" branch="false" />
+                <line number="31" hits="1" branch="false" />
+                <line number="32" hits="1" branch="false" />
+                <line number="34" hits="1" branch="false" />
+                <line number="36" hits="1" branch="false" />
+                <line number="37" hits="1" branch="false" />
+                <line number="38" hits="1" branch="false" />
+                <line number="39" hits="1" branch="false" />
+                <line number="40" hits="1" branch="false" />
+                <line number="41" hits="1" branch="false" />
+                <line number="42" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="ShouldSaveShow" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="64" hits="1" branch="false" />
+                <line number="65" hits="1" branch="false" />
+                <line number="66" hits="1" branch="false" />
+                <line number="67" hits="1" branch="false" />
+                <line number="68" hits="1" branch="false" />
+                <line number="70" hits="1" branch="false" />
+                <line number="72" hits="1" branch="false" />
+                <line number="73" hits="1" branch="false" />
+                <line number="74" hits="1" branch="false" />
+                <line number="75" hits="1" branch="false" />
+                <line number="76" hits="1" branch="false" />
+                <line number="77" hits="1" branch="false" />
+                <line number="78" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="20" hits="4" branch="false" />
+            <line number="21" hits="4" branch="false" />
+            <line number="22" hits="4" branch="false" />
+            <line number="23" hits="4" branch="false" />
+            <line number="24" hits="4" branch="false" />
+            <line number="28" hits="1" branch="false" />
+            <line number="29" hits="1" branch="false" />
+            <line number="30" hits="1" branch="false" />
+            <line number="31" hits="1" branch="false" />
+            <line number="32" hits="1" branch="false" />
+            <line number="34" hits="1" branch="false" />
+            <line number="36" hits="1" branch="false" />
+            <line number="37" hits="1" branch="false" />
+            <line number="38" hits="1" branch="false" />
+            <line number="39" hits="1" branch="false" />
+            <line number="40" hits="1" branch="false" />
+            <line number="41" hits="1" branch="false" />
+            <line number="42" hits="1" branch="false" />
+            <line number="46" hits="1" branch="false" />
+            <line number="47" hits="1" branch="false" />
+            <line number="48" hits="1" branch="false" />
+            <line number="49" hits="1" branch="false" />
+            <line number="50" hits="1" branch="false" />
+            <line number="52" hits="1" branch="false" />
+            <line number="54" hits="1" branch="false" />
+            <line number="55" hits="1" branch="false" />
+            <line number="56" hits="1" branch="false" />
+            <line number="57" hits="1" branch="false" />
+            <line number="58" hits="1" branch="false" />
+            <line number="59" hits="1" branch="false" />
+            <line number="60" hits="1" branch="false" />
+            <line number="64" hits="1" branch="false" />
+            <line number="65" hits="1" branch="false" />
+            <line number="66" hits="1" branch="false" />
+            <line number="67" hits="1" branch="false" />
+            <line number="68" hits="1" branch="false" />
+            <line number="70" hits="1" branch="false" />
+            <line number="72" hits="1" branch="false" />
+            <line number="73" hits="1" branch="false" />
+            <line number="74" hits="1" branch="false" />
+            <line number="75" hits="1" branch="false" />
+            <line number="76" hits="1" branch="false" />
+            <line number="77" hits="1" branch="false" />
+            <line number="78" hits="1" branch="false" />
+            <line number="82" hits="1" branch="false" />
+            <line number="83" hits="1" branch="false" />
+            <line number="84" hits="1" branch="false" />
+            <line number="85" hits="1" branch="false" />
+            <line number="87" hits="1" branch="false" />
+            <line number="89" hits="1" branch="false" />
+            <line number="90" hits="1" branch="false" />
+            <line number="91" hits="1" branch="false" />
+            <line number="92" hits="1" branch="false" />
+            <line number="93" hits="1" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

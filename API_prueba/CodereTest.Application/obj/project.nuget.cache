@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y32F7RvEpKyoUfGzZ9gYGqBL3NUbD9MWvIH/OOkbftOSji4ukHHFDPe/WxWuiLCK8mT6tG/ixhrBGwsqxRLPLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alvar\\Desktop\\Repos\\mis-repos\\CodereTechnicalTestRepo\\API_prueba\\CodereTest.Application\\CodereTest.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alvar\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Alvar\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Alvar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

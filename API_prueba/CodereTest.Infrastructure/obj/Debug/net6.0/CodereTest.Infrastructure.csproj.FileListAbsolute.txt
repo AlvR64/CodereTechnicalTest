@@ -1,0 +1,17 @@
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Infrastructure\bin\Debug\net6.0\CodereTest.Infrastructure.deps.json
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Infrastructure\bin\Debug\net6.0\CodereTest.Infrastructure.dll
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Infrastructure\bin\Debug\net6.0\CodereTest.Infrastructure.pdb
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Infrastructure\bin\Debug\net6.0\CodereTest.Application.dll
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Infrastructure\bin\Debug\net6.0\CodereTest.Domain.dll
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Infrastructure\bin\Debug\net6.0\CodereTest.Application.pdb
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Infrastructure\bin\Debug\net6.0\CodereTest.Domain.pdb
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Infrastructure\obj\Debug\net6.0\CodereTest.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Infrastructure\obj\Debug\net6.0\CodereTest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Infrastructure\obj\Debug\net6.0\CodereTest.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Infrastructure\obj\Debug\net6.0\CodereTest.Infrastructure.AssemblyInfo.cs
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Infrastructure\obj\Debug\net6.0\CodereTest.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Infrastructure\obj\Debug\net6.0\CodereTest.Infrastructure.csproj.CopyComplete
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Infrastructure\obj\Debug\net6.0\CodereTest.Infrastructure.dll
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Infrastructure\obj\Debug\net6.0\refint\CodereTest.Infrastructure.dll
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Infrastructure\obj\Debug\net6.0\CodereTest.Infrastructure.pdb
+C:\Users\Alvar\Desktop\Repos\mis-repos\CoderePrueba\API_prueba\CodereTest.Infrastructure\obj\Debug\net6.0\ref\CodereTest.Infrastructure.dll

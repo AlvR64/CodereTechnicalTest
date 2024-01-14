@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="7.0.15" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CodereTest.Infrastructure\CodereTest.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
