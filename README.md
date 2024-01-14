@@ -8,6 +8,8 @@ There are Unit Tests for the controllers and endpoints but not for the Applicati
 Maybe for this kind of Technical Test, hexagonal and CQRS could be some over-enginereed but as the exercise says, there is no limit for this.
 I appreciate the oportunity, thank you.
 
+# The sln file to open the solution is in API_Prueba/CodereTest/CodereTest.sln
+
 Packages:
 - Newtonsoft.Json for json deserializer.
 - Swashbuckle for documentation and swagger support.
